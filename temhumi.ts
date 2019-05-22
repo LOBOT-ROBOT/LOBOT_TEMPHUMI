@@ -1,7 +1,7 @@
 /*
  temhumi package
 */
-//% weight=6 icon="\uf293" color=#2896ff
+//% weight=6 icon="\uf013" color=#2896ff
 namespace temhumi {
     export enum TempSensor { 
         //% block="Port 4"
