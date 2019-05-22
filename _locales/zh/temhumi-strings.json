@@ -1,0 +1,6 @@
+{
+	"temhumi.TempSensor.port4|block":"接口4",
+	"temhumi.TempSensor.port9|block":"接口9",
+	"temhumi.initTempHumiSensor|block":"初始化温湿度传感器 %port",
+	"temhumi.gettemperature|block":"获取 %select"
+}

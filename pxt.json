@@ -1,0 +1,19 @@
+{
+    "name": "temhumi",
+    "version": "0.0.1",
+    "description": "Blocks for Hiwonder temperature and humidity sensor",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "temhumi.ts",
+        "_locales/zh/qdeebluetooth-strings.json",
+        "_locales/zh/qdeebluetooth-jsdoc-strings.json"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": true
+}
