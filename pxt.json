@@ -9,8 +9,8 @@
     "files": [
         "README.md",
         "temhumi.ts",
-        "_locales/zh/qdeebluetooth-strings.json",
-        "_locales/zh/qdeebluetooth-jsdoc-strings.json"
+        "_locales/zh/temhumi-strings.json",
+        "_locales/zh/temhumi-jsdoc-strings.json"
     ],
     "testFiles": [
         "test.ts"
